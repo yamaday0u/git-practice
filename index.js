@@ -3,3 +3,6 @@ console.log(message);
 
 const text = "This is a sample text.";
 console.log(text);
+
+const number = 42;
+console.log(number);
