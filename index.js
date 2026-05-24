@@ -6,3 +6,6 @@ console.log(text);
 
 const number = 42;
 console.log(number);
+
+const booleanValue = true;
+console.log(booleanValue);
