@@ -9,3 +9,6 @@ console.log(number);
 
 const booleanValue = true;
 console.log(booleanValue);
+
+const line = "------------------------------";
+console.log(line);
